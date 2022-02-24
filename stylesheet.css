@@ -1,0 +1,48 @@
+body{
+    background: #F5D9D9;
+}
+
+
+section{
+    background: linear-gradient(#A3F0EE 0%,#7BF7F9 50%, #7AC2F0 100%);
+    text-align: center;
+    
+    
+}
+h1{
+    font-family:sans-serif;
+    margin-bottom: 25px;
+}
+
+h2{
+    font-family:sans-serif;
+    margin-bottom: 50px;
+    font-weight: lighter;
+}
+
+h3{
+ font-family:sans-serif;   
+}
+
+#bruhmemefarm{
+    background: linear-gradient(#C70039 0%, #900C3F 100%);
+}
+
+.curs{
+    color:antiquewhite;
+    padding-bottom:20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#thirdsection{
+    background: linear-gradient(#58bc82 0%, #bcffba 100%)
+}
+
+#lastSECTIONLOL{
+    background: linear-gradient(#384353 0%, #022222 100%);
+    color:#bcbaa0;
+}
+
+
+
